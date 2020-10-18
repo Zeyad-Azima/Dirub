@@ -8,7 +8,7 @@ chmod +x Dirub.rb
 ruby Dirub.rb
 ```
 # Screenshot:
-<img src='Screenshot.png' />
+<img src='Screen.png' />
 
 # About:
 <a href='https://www.facebook.com/elkingzeyad.azeem/'>@Zeyad-Azima</a>
