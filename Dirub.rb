@@ -13,7 +13,7 @@ Directory-Bruteforcer in Ruby
 
 """
 
-puts "Enter your Target Full url(ex: 'google.com' or a directory 'google.com/profiles'): "
+puts "Enter your Target Domain or Domain with Directory(ex: 'google.com' or a directory 'google.com/profiles'): "
 host=gets.chomp.to_s
 puts"Enter Target Protocol(ex: 'http' or 'https'): "
 protcl=gets.chomp.to_s
